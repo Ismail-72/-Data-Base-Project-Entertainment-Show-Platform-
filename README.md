@@ -1,6 +1,6 @@
-![image](https://github.com/user-attachments/assets/feba4d3e-d6da-4ce4-abd0-e6471b6f26cc)# Data-Base-Project-Entertainment-Show-Platform-
+# Data-Base-Project-Entertainment-Show-Platform-
 The Following database is for Entertainment shows Platform A) We want to keep track of the company that produces these shows by gathering information about the company : “ founded year , Name , ID “. B) We also keep track of each entertainment show : Name, year , the date they were released ,the production budget , the country it was made in , language , type , duration , specific age that allowed to watch a certain show. C) Also store information about numbers of Episodes and seasons for each series and TV shows. D) We also store data about each Actor , Director and Announcer : SSN , First name , Last name , Gender , the Date of Birth and Nationality. Actors can participate in different movie & series as well as Directors , Announcers introduce the TV shows with different celebrities. E) Finally we keep data about each Viewer by collecting ID , Name , Birth Date. Every viewer has one profile which keep personal information about that one viewer like Email , Password , Nick Name and it does not repeat , method of payment , subscription type. Viewer can watches as many shows as he likes and can also rates them. 
 
 EER Model :-
-![Uploading image.png…](![image](https://github.com/user-attachments/assets/71e45ea4-e2b5-42e4-a674-c278617a83cc))
+![image](https://github.com/user-attachments/assets/feba4d3e-d6da-4ce4-abd0-e6471b6f26cc)
 
